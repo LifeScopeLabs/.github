@@ -1,3 +1,5 @@
+# Now at: https://github.com/companionintelligence
+
 Full Documentation:
 https://lifescopelabs.github.io/
 
